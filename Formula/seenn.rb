@@ -1,8 +1,8 @@
 class Seenn < Formula
   desc "Seenn CLI - Manage your Seenn account from the command line"
   homepage "https://seenn.io"
-  url "https://registry.npmjs.org/@seenn/cli/-/cli-0.1.0.tgz"
-  sha256 "9c5675083862f9f7a4dd75c79e71fd27290545f5665f5fd3a9763a75a44ce082"
+  url "https://registry.npmjs.org/@seenn/cli/-/cli-0.2.0.tgz"
+  sha256 "a291ae4048383d39891c5dce2326c95261b01f19ed8dc63b94d6f668185a8169"
   license "MIT"
 
   depends_on "node@20"
